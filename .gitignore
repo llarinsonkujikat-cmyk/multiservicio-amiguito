@@ -1,0 +1,34 @@
+# Dependencias
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Variables de entorno
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+*.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Archivos compilados
+dist/
+build/
